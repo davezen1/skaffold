@@ -37,9 +37,8 @@ require (
 	github.com/gorilla/mux v1.6.2 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.8.5
 	github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c // indirect
-	github.com/imdario/mergo v0.3.6 // indirect
+	github.com/imdario/mergo v0.3.6
 	github.com/karrick/godirwalk v1.7.5
-	github.com/knative/pkg v0.0.0-20190730155243-972acd413fb9 // indirect
 	github.com/krishicks/yaml-patch v0.0.10
 	github.com/mattbaird/jsonpatch v0.0.0-20171005235357-81af80346b1a // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
@@ -75,9 +74,9 @@ require (
 	gopkg.in/russross/blackfriday.v2 v2.0.1
 	gopkg.in/src-d/go-billy.v4 v4.3.0 // indirect
 	gopkg.in/src-d/go-git.v4 v4.11.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.4
 	k8s.io/api v0.0.0-20190620073856-dcce3486da33
-	k8s.io/apimachinery v0.0.0-20190620073744-d16981aedf33
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v0.0.0-20190620074045-585a16d2e773
 	k8s.io/kubectl v0.0.0-20190622051205-955b067cc6d3
 	k8s.io/utils v0.0.0-20190221042446-c2654d5206da
