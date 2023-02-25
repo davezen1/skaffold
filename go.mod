@@ -14,7 +14,7 @@ require (
 	github.com/containerd/continuity v0.0.0-20181027224239-bea7585dbfac // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/docker/cli v0.0.0-20181026145426-51668a30f262
-	github.com/docker/distribution v0.0.0-20180327202408-83389a148052
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker v0.7.3-0.20190327010347-be7ac8be2ae0
 	github.com/docker/docker-credential-helpers v0.6.1 // indirect
 	github.com/docker/go-connections v0.4.0
@@ -37,9 +37,8 @@ require (
 	github.com/gorilla/mux v1.6.2 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.8.5
 	github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c // indirect
-	github.com/imdario/mergo v0.3.6 // indirect
+	github.com/imdario/mergo v0.3.6
 	github.com/karrick/godirwalk v1.7.5
-	github.com/knative/pkg v0.0.0-20190730155243-972acd413fb9 // indirect
 	github.com/krishicks/yaml-patch v0.0.10
 	github.com/mattbaird/jsonpatch v0.0.0-20171005235357-81af80346b1a // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
